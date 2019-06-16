@@ -1,0 +1,1 @@
+{"Name":"<>?\\/*|:","Map":"map\\Alpha.txt","Skin":"skins\\B.txt","DeltaGhost":7500,"IsNew":true}

@@ -1,0 +1,1 @@
+{"Name":"VoTToN","Map":"map\\Alpha.txt","Skin":"skins\\BlindKoreanPlayer.txt","DeltaGhost":8900,"IsNew":false}

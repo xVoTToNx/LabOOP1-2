@@ -1,0 +1,1 @@
+{"Name":"Lera","Map":"map\\Alpha.txt","Skin":"skins\\USSR.txt","DeltaGhost":9500,"IsNew":false}

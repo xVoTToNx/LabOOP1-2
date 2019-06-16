@@ -1,0 +1,1 @@
+﻿{"HeroNormal":"\u2692","chn":11,"HeroEnergizer":"⚔","che":11,"GhostNormal":"☭","cgn":12,"GhostEnergizer":"☮","cge":10,"Food":"•","cf":6,"Wall":"⌺","cw":15,"Energizer":"$","ce":10,"Music":"music\\ussr.wav"}

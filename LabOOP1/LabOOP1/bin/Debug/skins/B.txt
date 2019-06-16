@@ -1,0 +1,1 @@
+{"HeroNormal":"H","chn":11,"HeroEnergizer":"H","che":13,"GhostNormal":"V","cgn":12,"GhostEnergizer":"U","cge":10,"Food":"o","cf":1,"Wall":"@","cw":15,"Energizer":"E","ce":14,"Music":"music\\pacman.wav"}
